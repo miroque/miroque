@@ -1,3 +1,9 @@
+# :star: Panov Aleksandr - Developer Arheologist
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miroque&theme=transparant&langs_count=7">
+</div>  
+
 - 👋 Hi, I’m @miroque
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
